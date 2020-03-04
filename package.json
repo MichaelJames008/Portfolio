@@ -1,0 +1,16 @@
+{
+  "name": "Resume",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d Resume"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://MichaelJames008.github.io/Portfolio",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
