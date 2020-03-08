@@ -96,3 +96,8 @@ body {
     border: 1px solid var(--color-border);
 }
 
+
+.toggle-left{
+    left: 0 !important;
+    width: 1200px !important;
+}
