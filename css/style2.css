@@ -211,4 +211,10 @@ footer{
         width:100%;
         margin-bottom: 5px;
     }
+
+    .carousel-control-next-icon,
+    .carousel-control-prev-icon,
+    .carousel-indicators {
+      filter: invert(1);
+    }
 }
